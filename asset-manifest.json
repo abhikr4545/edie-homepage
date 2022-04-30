@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/edie-homepage/static/css/main.721f1bca.css",
+    "main.js": "/edie-homepage/static/js/main.6deabc30.js",
+    "static/media/heroImage.jpg": "/edie-homepage/static/media/heroImage.0131c65cf725a6bd1fe1.jpg",
+    "static/media/onboard.png": "/edie-homepage/static/media/onboard.3127395c644187e4ac61.png",
+    "static/media/booking.png": "/edie-homepage/static/media/booking.5fabb303e148404da65c.png",
+    "static/media/smarthome.jpg": "/edie-homepage/static/media/smarthome.deca3c42a33ee416ff13.jpg",
+    "static/media/juice-product.png": "/edie-homepage/static/media/juice-product.7dd02c6931855a34612b.png",
+    "static/media/person3.png": "/edie-homepage/static/media/person3.e332a62f0c9077144bcb.png",
+    "static/media/person1.png": "/edie-homepage/static/media/person1.6336d958523d7dafde6d.png",
+    "static/media/person2.png": "/edie-homepage/static/media/person2.89a1b6c97c35b39be5f8.png",
+    "static/media/person4.png": "/edie-homepage/static/media/person4.ed00c31f4dd34829f204.png",
+    "static/media/instagram.svg": "/edie-homepage/static/media/instagram.3a77afb49f6b59c1bf9e666858bf226b.svg",
+    "static/media/twitter.svg": "/edie-homepage/static/media/twitter.da287da42af40d5ec91687509ecf0c6c.svg",
+    "static/media/linkedin.svg": "/edie-homepage/static/media/linkedin.77c48525713dbb23c2411c10bc34e2a3.svg",
+    "index.html": "/edie-homepage/index.html",
+    "main.721f1bca.css.map": "/edie-homepage/static/css/main.721f1bca.css.map",
+    "main.6deabc30.js.map": "/edie-homepage/static/js/main.6deabc30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721f1bca.css",
+    "static/js/main.6deabc30.js"
+  ]
+}
